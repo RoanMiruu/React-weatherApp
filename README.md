@@ -22,5 +22,5 @@ On your keyboard, press Alt + 0176.
   serve -s build
 
  # Hosted on Netlify
- [Title] (xenodochial-feynman-40ac7c.netlify.app)
-git
+ [Netlify] (xenodochial-feynman-40ac7c.netlify.app)
+
